@@ -1,4 +1,91 @@
-body{
+body {
     padding: auto;
     margin: auto;
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+        color: green;
+    }
+
+
+    .col-1 {
+        width: 8.3%;
+    }
+
+    .col-2 {
+        width: 10.3%;
+    }
+
+    .col-3 {
+        width: 18.3%;
+    }
+
+    .col-4 {
+        width: 20.3%;
+    }
+
+    .col-5 {
+        width: 28.3%;
+    }
+
+    .col-6 {
+        width: 30.3%;
+    }
+
+    .col-7 {
+        width: 38.3%;
+    }
+
+    .col-8 {
+        width: 40.3%;
+    }
+
+    .col-9 {
+        width: 48.3%;
+    }
+
+    .col-10 {
+        width: 50.3%;
+    }
+
+    .col-11 {
+        width: 58.3%;
+    }
+
+    .col-12 {
+        width: 60.3%;
+    }
+
+    .col-13 {
+        width: 68.3%;
+    }
+
+    .col-13 {
+        width: 70.3%;
+    }
+
+    .col-14 {
+        width: 78.3%;
+    }
+
+    .col-15 {
+        width: 80.3%;
+    }
+
+    .col-16 {
+        width: 88.3%;
+    }
+
+    .col-17 {
+        width: 90.3%;
+    }
+
+    .col-18 {
+        width: 98.3%;
+    }
+
+    .col-19 {
+        width: 100.3%;
+    }
 }
